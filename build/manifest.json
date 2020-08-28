@@ -25,7 +25,7 @@
       "short_name": "Today",
       "description": "View weather information for today",
       "url": "/today?source=pwa",
-      "icons": [{ "src": "/images/today.png", "sizes": "192x192" }]
+      "icons": [{ "src": "today.png", "sizes": "192x192" }]
     },
     {
       "name": "How's weather tomorrow?",
